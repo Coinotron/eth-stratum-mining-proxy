@@ -22,7 +22,7 @@ Installation on Linux
 	install python-twisted
 2. download https://github.com/coinotron/eth-stratum-mining-proxy/
 3. run proxy: 
-	python ./mining-proxy.py -o coinotron.com -p 3344
+	python ./mining_proxy.py -o coinotron.com -p 3344
 4. If you want to connect to another pool or change other proxy settings ( for example define custom worker and password ), type "mining_proxy.py --help".
 
 
